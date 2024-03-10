@@ -1,0 +1,30 @@
+
+
+CORS - Cross Origin Resourse Sharing
+
+API - Application Programming Interface 
+structure:-
+Header(secret data) --- body(normaldata)
+rules to create api(Protocols) - http/https/
+
+type of data to be send must be converted to  global language like json/xml so all technoly can translate easily 
+
+
+REST - Representational State Transfer 
+
+json data type and http protocol called rest api
+
+
+midleware
+------------
+
+function used to control routes(api request) in server
+
+ works before working of api req logic
+
+middleware can control req, res and the logic after the req
+
+2 type
+
+1.application specific middleware - controll all requests in server application
+2.router specific middleware - only control specific requests in server application
